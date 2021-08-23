@@ -1,6 +1,6 @@
 ---
 role: Research Associate
-avatar_filename: ""
+avatar_filename: badidea.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
