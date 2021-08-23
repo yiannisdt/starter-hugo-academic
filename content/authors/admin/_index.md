@@ -5,9 +5,9 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - End-to-end encryption
-  - Secure Messaging
-  - Blockchain Technologies
-  - Hardware
+  - Secure messaging
+  - Blockchain technologies
+  - Non-malleable cryptrography & hardware Security
 social:
   - icon: envelope
     icon_pack: fas
