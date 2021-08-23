@@ -1,6 +1,6 @@
 ---
 role: Research Associate
-avatar_filename: serviceprov.png
+avatar_filename: oxford.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
