@@ -1,5 +1,6 @@
 ---
 role: Research Associate
+avatar_filename: tselekounis.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
