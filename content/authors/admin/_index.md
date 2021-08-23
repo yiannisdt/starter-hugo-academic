@@ -41,9 +41,6 @@ highlight_name: false
 title: Yiannis Tselekounis
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Research Associate at the [School of Informatics](http://www.ed.ac.uk/schools-departments/informatics) of the [University of Edinburgh](http://www.ed.ac.uk/) and member of the [Security and Privacy Group](http://web.inf.ed.ac.uk/security-privacy). Prior to that I was a faculty fellow and postdoctoral researcher at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/) of [New York University](https://www.nyu.edu/), hosted by [Yevgeniy Dodis](https://cs.nyu.edu/~dodis/). I hold a PhD degree from UoE and prior to that I studied mathematics and computer science at the [National and Kapodistrian University of Athens](https://en.uoa.gr/). My research interests are in information security and cryptography, both theoretical and applied, and include the following topics:
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
