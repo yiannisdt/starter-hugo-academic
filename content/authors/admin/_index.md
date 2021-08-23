@@ -2,11 +2,7 @@
 role: Research Associate
 avatar_filename: avatar.png
 bio: ""
-interests:
-  - Εnd-to-end encrypted messaging
-  - Blockchain technologies
-  - Non-malleable cryptrography
-  - Hardware Security
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
