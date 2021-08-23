@@ -34,4 +34,4 @@ My research interests lie in the fields of Cryptography and Information Security
 * Εnd-to-end encrypted messaging
 * Blockchain technologies
 * Non-malleable cryptography
-* Hardware Securit
+* Hardware Securityy
