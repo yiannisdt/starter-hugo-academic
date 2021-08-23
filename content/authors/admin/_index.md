@@ -4,7 +4,7 @@ avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Secure/end-to-end encrypted messaging
+  - Εnd-to-end encrypted messaging
   - Blockchain technologies
   - Non-malleable cryptrography
   - Hardware Securit
