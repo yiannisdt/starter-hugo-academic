@@ -7,7 +7,8 @@ interests:
   - End-to-end encryption
   - Secure messaging
   - Blockchain technologies
-  - Non-malleable cryptrography & hardware Security
+  - Non-malleable cryptrography
+  - Hardware Security
 social:
   - icon: envelope
     icon_pack: fas
